@@ -2,11 +2,13 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.22.011108.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.011108/legado-3.22.011108.apk) 上次构建时间:2022-01-11 08:50:23
+> 最新构建下载:[legado-3.22.011116.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.011116/legado-3.22.011116.apk) 上次构建时间:2022-01-11 20:21:52
 <!--start-->
 > **2022/01/11**
 > 
 > * 紧急修复在线tts朗读bug
+> * 紧急修复登录问题
+> * 添加isVolume规则，支持二级目录，页眉标题、正文标题显示优化 by Xwite
 <!--end-->
   
 1. fork到你自己的仓库
