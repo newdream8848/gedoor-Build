@@ -2,12 +2,19 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.22.050215.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.050215/legado-3.22.050215.apk) 上次构建时间:2022-05-02 20:28:18
+> 最新构建下载:[legado-3.22.051021.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.051021/legado-3.22.051021.apk) 上次构建时间:2022-05-11 02:18:46
 <!--start-->
-> **2022/05/02**
+> **2022/05/10**
 > 
-> * 优化强调色和文字颜色一样的情况下一些文字的显示
-> * 修复bug
+> * 更新cronet: 101.0.4951.61
+> * 更新到SDK 32
+> * js添加 getVerificationCode startBrowserAwait
+> * 监测网络变化及时更新web服务的IP
+> * 优化在线tts导入
+> * 优化txt规则导入
+> * 替换规则添加超时字段
+> * 其它一些bug修复
+> 
 <!--end-->
   
 1. fork到你自己的仓库
