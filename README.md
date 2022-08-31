@@ -2,12 +2,14 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.22.082409.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.082409/legado-3.22.082409.apk) 上次构建时间:2022-08-24 09:39:47
+> 最新构建下载:[legado-3.22.083120.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.22.083120/legado-3.22.083120.apk) 上次构建时间:2022-09-01 02:19:03
 <!--start-->
-> **2022/08/23**
+> **2022/08/31**
 > 
-> * 验证码输入框显示来自哪个书源
-> * 修复一键导入丢失url参数的问题
+> * 更新cronet: 105.0.5195.68
+> * 修复一些bug
+> * 给书源点赞 by SJJ-dot
+> * 墨水屏模式下，书籍信息页不显示模糊书籍封面作为背景
 <!--end-->
   
 1. fork到你自己的仓库
