@@ -2,12 +2,14 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.23.032923.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.23.032923/legado-3.23.032923.apk) 上次构建时间:2023-03-30 02:21:11
+> 最新构建下载:[legado-3.23.040118.apk](https://github.com/newdream8848/gedoor-Build/releases/download/legado-3.23.040118/legado-3.23.040118.apk) 上次构建时间:2023-04-01 20:20:18
 <!--start-->
-> **2023/03/29**
+> **2023/04/01**
 > 
-> * 修复低于android7.0版本无法恢复备份的问题
-> * 修复低版本安卓崩溃的问题
+> * 原app最低支持版本提升到android7.0
+> * 创建lollipop版本支持android5.0
+> * 增加内置文件管理,管理私有文件
+> * 书籍分组增加允许下拉刷新设置
 <!--end-->
   
 1. fork到你自己的仓库
